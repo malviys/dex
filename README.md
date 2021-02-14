@@ -1,4 +1,4 @@
-# dex
+# dex - dart extended
 
 Flutter Package for adding additional functionalities to dart.
 
