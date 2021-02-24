@@ -10,3 +10,5 @@ Flutter Package for adding additional functionalities to dart.
 - [Unit](https://github.com/malviys/dex/blob/master/lib/src/core/unit.dart)
 - [OrderedPair](https://github.com/malviys/dex/blob/master/lib/src/ordered_pair.dart) - Pair, Triplet, Quadruplet
 - [Higher Order Function](https://github.com/malviys/dex/blob/master/lib/src/hof.dart) - let, also, identity
+
+# Moved to malviys/dart-packages
